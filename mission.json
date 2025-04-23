@@ -1,0 +1,165 @@
+{
+    "mission::Plan": {
+        "name": "Mission",
+        "note": "Описание миссии",
+        "tasks": [
+            {
+                "id": "SidesonarOn",
+                "SidesonarDist": 100,
+                "SidesonarPulse": 1500,
+                "SidesonarDecimation": 0,
+                "SidesonarRawData": false
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -0.000225,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -0.00018,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -0.00018,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -0.000135,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -0.000135,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -9e-05,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -9e-05,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -4.5e-05,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -4.5e-05,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -0.0,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": -0.0,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 4.5e-05,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 4.5e-05,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 9e-05,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 9e-05,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 0.000135,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 0.000135,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 0.00018,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 0.00018,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 0.000225,
+                "TackPointLat": -4.5e-05
+            },
+            {
+                "id": "TackPoint",
+                "TackPointUp": -4.0,
+                "TackPointVelocity": 0.5,
+                "TackPointLon": 0.000225,
+                "TackPointLat": 4.5e-05
+            },
+            {
+                "id": "SidesonarOff"
+            }
+        ]
+    }
+}
