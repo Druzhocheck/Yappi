@@ -55,7 +55,7 @@ class Translator():
                     "id": "SidesonarOn",
                     "SidesonarDist": 100,
                     "SidesonarPulse": 1500,
-                    "SidesonarDecimation": 0,
+                    "SidesonarDecimation": 1,
                     "SidesonarRawData": False
                     }
             
