@@ -35,20 +35,6 @@ if __name__ == "__main__":
                     # Разделяем координаты на долготу и широту
                     longitude, latitude = map(str, value['координаты'].split(', '))
                     
-                    # # Преобразуем строку координат в словарь
-                    # if isinstance(value, dict):
-                    #     value["координаты"] = {
-                    #         "долгота": longitude,
-                    #         "широта": latitude
-                    #     }
-                    # else:
-                    #     # Если value не является словарем, создаем новый словарь
-                    #     command[key] = {
-                    #         "координаты": {
-                    #             "долгота": longitude,
-                    #             "широта": latitude
-                    #         }
-                    #     }
                     value['координаты'] = {
                         "координаты" : Figure(key, command, longitude, latitude).coordinates()
                         }

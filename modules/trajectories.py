@@ -418,6 +418,9 @@ class ParallelLineGenerator:
         
         return (round(new_lon, 6), round(math.degrees(new_lat), 6))
 
+class SnakeLineGenerator:
+    pass
+
 class Figure:
     """Оптимизированный класс для построения траекторий."""
     
